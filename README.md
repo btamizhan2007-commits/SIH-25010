@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.09.2025
+## Register Number:25018064
+## Name:TAMIZHAN B
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -51,7 +51,8 @@ Technologies:AI/ML, mobile app developments, data analytics.
 
 Methodology: Develop a user-friendly interface, integrate with weather and markets dataAPls, and train AI models for crop advisory and pest/disease 
 
-<img width="381" height="896" alt="Screenshot 2025-09-26 155005" src="https://github.com/user-attachments/assets/90dcd378-34cf-4f54-a631-fef6d6019e36" />
+<img width="562" height="896" alt="Screenshot 2025-09-26 171900" src="https://github.com/user-attachments/assets/60e07bef-3185-451f-96b9-4b37e60dc671" />
+
 
 ## Feasibility and Viability
  Analysis The solution is feasiable with existing technologies and can be implemented in phase.
